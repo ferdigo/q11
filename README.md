@@ -27,27 +27,32 @@
 ## Experience
 
 * ### The Boeing Company
-  - ##### | Aug 2018 - Present |
+  - | Aug 2018 - Present |
   - *Manufacturing Engineer*
 
 * ### PT. Krakatau Steel
-  - ##### | Nov 2016 - Feb 2018 |
+  - | Nov 2016 - Feb 2018 |
   - *PTechnical Consultant*
 
 * ### LvivAgroMash LLC
-  - ##### | Oct 2015 - May 2016 |
-  - *Process Engineer*
+  - | Oct 2015 - May 2016 |
+  - * Engineer*
 
 * ### Universal Drilling Technique LLC
-  - ##### | Mar 2012 - Oct 2015 |
+  - | Mar 2012 - Oct 2015 |
   - *Process Engineer*
 
 * ### Pavlohradkhimmash 
-  - ##### | Apr 2011 - Oct 2011 |
+  - | Apr 2011 - Oct 2011 |
   - *Design Engineer*
 
 ## Education
 * **School**: National Technical University of Ukraine 'Kyiv Polytechnic Institute'
   * **Degree**: Master's degree
    * **Field of study**: Mechanical Engineering
+* **Completed Courses*:
+  * Udemy - HTML, CSS, & JavaScript - Certification Course for Beginners.
+  * Stepik.org - Веб-разработка для начинающих: HTML и CSS
+  * ru.code-basics.com - JavaScript для начинающих
+  * Youtube lessons 
 
