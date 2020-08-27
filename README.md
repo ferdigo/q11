@@ -34,7 +34,7 @@
 
 * **PT. Krakatau Steel**
   - | Nov 2016 - Feb 2018 |
-  - *PTechnical Consultant*
+  - *Technical Consultant*
 
 * **LvivAgroMash LLC**
   - | Oct 2015 - May 2016 |
