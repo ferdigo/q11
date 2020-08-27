@@ -22,14 +22,14 @@
 * Analytical thinking
 * Teamwork
 
-## Code examples of my public projects: [Link](https://github.com/ferdigo)**
+## Code examples of my public projects: [Link](https://github.com/ferdigo)
 
 ## Experience
 
 * ### Universal Drilling Technique LLC
 ##### | Mar 2012 - Oct 2015 |
-*Process Engineer*
+###### *Process Engineer*
 
 * ### Pavlohradkhimmash 
 ##### | Apr 2011 - Oct 2011 |
-*Design Engineer*
+###### *Design Engineer*
