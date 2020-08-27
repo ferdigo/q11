@@ -27,21 +27,21 @@
 ## Experience
 
 * ### The Boeing Company
-##### | Aug 2018 - Present |
-*Manufacturing Engineer*
+  - ##### | Aug 2018 - Present |
+  - *Manufacturing Engineer*
 
 * ### PT. Krakatau Steel
-##### | Nov 2016 - Feb 2018 |
-*PTechnical Consultant*
+  - ##### | Nov 2016 - Feb 2018 |
+  - *PTechnical Consultant*
 
 * ### LvivAgroMash LLC
-##### | Oct 2015 - May 2016 |
-*Process Engineer*
+  - ##### | Oct 2015 - May 2016 |
+  - *Process Engineer*
 
 * ### Universal Drilling Technique LLC
-##### | Mar 2012 - Oct 2015 |
-*Process Engineer*
+  - ##### | Mar 2012 - Oct 2015 |
+  - *Process Engineer*
 
 * ### Pavlohradkhimmash 
   - ##### | Apr 2011 - Oct 2011 |
-  - **Design Engineer**
+  - *Design Engineer*
