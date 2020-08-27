@@ -14,13 +14,15 @@
 ## Technical Skills
 * **Programming Languages**: HTML/CSS **|** Bootstrap 4 **|** SASS **|** JavaScript
 * **Frameworks**: React **|** Angular
-* **Methodologies**: Agile **|** Scrum **|** Object-Oriented Programming
+* **Methodologies**: BEM **|** Object-Oriented Programming
 * **Automation Software**:   Webpack **|** Gulp **|** Parcel
 * **VCS**: Git 
 
 ## Soft Skills
 * Analytical thinking
 * Teamwork
+* Agile
+* Scrum
 
 ## Code examples of my public projects: [Link](https://github.com/ferdigo)
 
