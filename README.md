@@ -42,6 +42,5 @@
 ##### | Mar 2012 - Oct 2015 |
 *Process Engineer*
 
-* ### Pavlohradkhimmash 
-*| Apr 2011 - Oct 2011 |*
+* ### Pavlohradkhimmash | Apr 2011 - Oct 2011 |
 **Design Engineer**
