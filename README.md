@@ -36,7 +36,7 @@
 
 * **LvivAgroMash LLC**
   - | Oct 2015 - May 2016 |
-  - * Engineer*
+  - *Manufacturing Engineer*
 
 * **Universal Drilling Technique LLC**
   - | Mar 2012 - Oct 2015 |
