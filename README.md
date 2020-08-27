@@ -47,7 +47,7 @@
   - *Design Engineer*
 
 ## Education
-* School: National Technical University of Ukraine 'Kyiv Polytechnic Institute'
-  * Degree: Master's degree
-   * Field of study: Mechanical Engineering
+* **School**: National Technical University of Ukraine 'Kyiv Polytechnic Institute'
+  * **Degree**: Master's degree
+   * **Field of study**: Mechanical Engineering
 
