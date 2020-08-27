@@ -45,3 +45,9 @@
 * ### Pavlohradkhimmash 
   - ##### | Apr 2011 - Oct 2011 |
   - *Design Engineer*
+
+## Education
+* School: National Technical University of Ukraine 'Kyiv Polytechnic Institute'
+  * Degree: Master's degree
+   * Field of study: Mechanical Engineering
+
