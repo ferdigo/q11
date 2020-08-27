@@ -12,8 +12,8 @@
 
 
 ## Technical Skills
-* Programming Languages: HTML/CSS | Bootstrap 4 | SASS | JavaScript
-* Frameworks :           React | Angular
-* Methodologies:         Agile | Scrum | Object-Oriented Programming
-* Automation Software:   Webpack | Gulp | Parcel
-* VCS:                   Git 
+* **Programming Languages**: HTML/CSS **|** Bootstrap 4 **|** SASS **|** JavaScript
+* **Frameworks**: React | Angular
+* **Methodologies**: Agile | Scrum | Object-Oriented Programming
+* **Automation Software**:   Webpack | Gulp | Parcel
+* **VCS**: Git 
