@@ -1,7 +1,7 @@
 # Roman Zhuk
 ### Junior Front-end Developer
 
-* Contacts:
+* ###Contacts:
   * email: rombat999@gmail.com
   * phone: +380972459308
   * LinkedIn: https://www.linkedin.com/in/roman-zhuk/
