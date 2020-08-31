@@ -24,8 +24,11 @@
 * Agile
 * Scrum
 
-## Code examples of my public projects: [Link](https://github.com/ferdigo)
-
+## Code example:
+```javascript
+let greeting = true
+if (greeting) alert('Hello stranger :)');
+```
 ## Experience
 
 * **The Boeing Company**
