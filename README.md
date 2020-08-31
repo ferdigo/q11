@@ -19,10 +19,10 @@
 * **VCS**: Git 
 
 ## Soft Skills
-[x] Analytical thinking
-[x] Teamwork
-[x] Agile
-[x] Scrum
+- [x] Analytical thinking
+- [x] Teamwork
+- [x] Agile
+- [x] Scrum
 
 ## Code example:
 ```javascript
